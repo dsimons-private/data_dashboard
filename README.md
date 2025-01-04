@@ -21,5 +21,5 @@ This project is a web-based data visualization application that transforms raw d
 
 ## Data Source
 
-Dataset 1: https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?end=2021&locations=1W-AM-DE&start=2000
-Dataset 2: https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?locations=DE
+- Dataset 1: https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?end=2021&locations=1W-AM-DE&start=2000
+- Dataset 2: https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?locations=DE
