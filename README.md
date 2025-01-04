@@ -23,3 +23,8 @@ This project is a web-based data visualization application that transforms raw d
 
 - Dataset 1: https://data.worldbank.org/indicator/SH.XPD.CHEX.PC.CD?end=2021&locations=1W-AM-DE&start=2000
 - Dataset 2: https://data.worldbank.org/indicator/SP.POP.65UP.TO.ZS?locations=DE
+
+## Web Application / Data Dashboard Result
+
+![Screenshot_1](https://github.com/user-attachments/assets/c602f160-26ca-4d2b-b42c-ff56b9026d58)
+![Screenshot_2](https://github.com/user-attachments/assets/c6c9fdf5-7bf1-45b8-b471-278974449b0c)
